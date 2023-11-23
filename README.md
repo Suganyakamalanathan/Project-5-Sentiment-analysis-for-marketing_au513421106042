@@ -66,7 +66,5 @@ data = pd.read_csv('marketing_data.csv')
 
 After running the code, you will obtain sentiment analysis results along with visualizations (if you choose to use WordCloud). You can use these results to gain insights into the sentiment of your marketing content.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
